@@ -1,0 +1,4 @@
+gpt2-spanish-finetuned/checkpoint-22353/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+checkpoint-22000/model.safetensors filter=lfs diff=lfs merge=lfs -text
+checkpoint-22000/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+checkpoint-22353/model.safetensors filter=lfs diff=lfs merge=lfs -text
